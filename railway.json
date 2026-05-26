@@ -5,7 +5,6 @@
   },
   "deploy": {
     "startCommand": "python couple_bot_complete.py",
-    "restartPolicyType": "ON_FAILURE",
-    "restartPolicyMaxRetries": 3
+    "restartPolicyType": "ALWAYS"
   }
 }
