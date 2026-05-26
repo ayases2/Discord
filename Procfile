@@ -1,0 +1,1 @@
+worker: python bot/couple_bot_complete.py
