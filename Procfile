@@ -1,1 +1,1 @@
-worker: python bot/couple_bot_complete.py
+worker: python couple_bot_complete.py
